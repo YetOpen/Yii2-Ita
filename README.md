@@ -21,7 +21,8 @@ Per contribuire a questa repository, non esistono grandi regole.
 👉 *Aprite una pull-request*
 
 
-Invito tutti i collaboratori, a mantenere la struttura originale (quella inglese), così da esser più agevole la lettura e la ricerca delle informazioni
+Invito tutti i collaboratori, a mantenere la struttura originale ([quella inglese](https://github.com/yiisoft/yii2/tree/master/docs/guide)), 
+così da esser più agevole la lettura e la ricerca delle informazioni.
 
 ### Dove posso trovarla?
 📖 [Versione in sviluppo](https://milicia4.github.io/Yii2-Ita/)
