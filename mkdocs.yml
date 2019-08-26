@@ -45,6 +45,9 @@ pages:
     - Generatore di Query: 'working-with-databases/sub-query-builder.md'
     - Active Record: 'working-with-databases/sub-active-record.md'
     - Migrazoni: 'working-with-databases/sub-migrations.md'
+- Ricezione dati dall'utente:
+    - Creazione di form: 'forms/sub-creating-forms.md'
+    - Validazione dati: 'forms/sub-validating-input.md'
 theme: 'material'
 extra:
       primary: 'teal'
